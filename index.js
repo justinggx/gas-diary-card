@@ -213,14 +213,15 @@
     document.head.appendChild(s);
   }
 
-  const RE = /<diary>([\s\S]*?)<\/diary>\s*<status>([\s\S]*?)<\/status>/g;
+  // 单标签格式：<gspstate>状态|日记内容</gspstate>
+  const RE = /<gspstate>([^|]+)\|([\s\S]*?)<\/gspstate>/g;
 
   function processEl(el) {
     if (el.dataset.gspDone) return;
     const raw = el.innerHTML;
-    if (!raw.includes('<diary>')) return;
+    if (!raw.includes('<gspstate>')) return;
     el.dataset.gspDone = '1';
-    el.innerHTML = raw.replace(RE, (_, diary, status) =>
+    el.innerHTML = raw.replace(RE, (_, status, diary) =>
       buildHTML(diary.trim(), status.trim())
     );
   }

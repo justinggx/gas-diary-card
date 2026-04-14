@@ -1,9 +1,9 @@
 {
   "display_name": "Gaspard Diary",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "justinggx",
   "description": "Gaspard 短日记 + 状态翻牌模块",
-  "js": "Gaspard翻牌日记扩展.js",
+  "js": "index.js",
   "css": "",
   "homepage": "https://gitee.com/justinggx/Gaspard-diary",
   "tags": ["gaspard", "diary"],

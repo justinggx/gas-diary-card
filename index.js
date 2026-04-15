@@ -23,26 +23,26 @@
     ],
     '难过': [
       'https://i.postimg.cc/zBQSvWrW/nan-guo-di-qi-ya1.png',
-      'https://i.postimg.cc/C5fCq1ht/nan-guo-di-qi-ya2.png',
-      'https://i.postimg.cc/WzJmk3NC/nan-guo-di-qi-ya3.png',
+      'https://i.postimg.cc/0y9swjkd/nan-guo-di-qi-ya2.png',
+      'https://i.postimg.cc/3wMxVYYL/nan-guo-di-qi-ya3.png',
     ],
     '社交': [
-      'https://i.postimg.cc/Gp7SP4R9/she-jiao-wei-zhuang-zhuang-tai1.png',
-      'https://i.postimg.cc/65Jbhskm/she-jiao-wei-zhuang-zhuang-tai2.png',
-      'https://i.postimg.cc/KvPqqqb7/she-jiao-wei-zhuang-zhuang-tai3.png',
+      'https://i.postimg.cc/4dHkghPf/she-jiao-wei-zhuang-zhuang-tai1.png',
+      'https://i.postimg.cc/gJzmb05v/she-jiao-wei-zhuang-zhuang-tai2.png',
+      'https://i.postimg.cc/wvGP4TYn/she-jiao-wei-zhuang-zhuang-tai3.png',
     ],
     '放松': [
-      'https://i.postimg.cc/fLQSrKDx/si-xia-fang-song-zhuang-tai1.png',
-      'https://i.postimg.cc/prq9yM8k/si-xia-fang-song-zhuang-tai2.png',
+      'https://i.postimg.cc/SNyTLM9z/si-xia-fang-song-zhuang-tai1.png',
+      'https://i.postimg.cc/R0q27njk/si-xia-fang-song-zhuang-tai2.png',
       'https://i.postimg.cc/BbM8tfDM/si-xia-fang-song-zhuang-tai3.png',
     ],
     '欲望': [
       'https://i.postimg.cc/VvL6xZT3/yu-wang-NSFW-qian-tai1.jpg',
       'https://i.postimg.cc/1XCtsc1h/yu-wang-NSFW-qian-tai2.jpg',
-      'https://i.postimg.cc/6qj3tLxw/yu-wang-NSFW-qian-tai3.png',
+      'https://i.postimg.cc/nzSb8GBS/yu-wang-NSFW-qian-tai3.png',
     ],
     '烦躁': [
-      'https://i.postimg.cc/d02VLKcr/fan-zao-tong-ku.png',
+      'https://i.postimg.cc/RZTvsfp9/fan-zao-tong-ku.png',
     ],
   };
 
